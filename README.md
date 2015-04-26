@@ -42,7 +42,7 @@ One R script called run_analysis.R should be created which does the following:
 
 Data file was downloaded and expanded in a separate directory, without names altered. The requested R script was developed using this path as working directory. So relative paths were used to access the uncompressed files.
 
-Next, requested files are described:
+Requested files are described:
 
 *CodeBook.md* Describes data, variables, and actions performed to clean the data and main results.
 
