@@ -48,6 +48,6 @@ Requested files are described:
 
 *run_analysis.R* Contains all the code to perform the analyses described in the 5 steps. They can be launched in R by just importing the file (*source* command). Embeded (hard coded) path to files should be reviewed.
 
-*averages_data.txt* The output of the 5th step of the guide presented before. 
+*tidy_data.txt* File output of the 5th step of the guide presented before. 
 
 *README.md* This document.

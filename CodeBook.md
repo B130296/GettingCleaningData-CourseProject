@@ -76,7 +76,7 @@ A short description of what this program do is as follows:
 | mean_std      | Subset of `features` data.
 | activities    | Activity names.
 | tidy_data     | `x_data`, `y_data` and `subject_data` merged in a big dataset.
-| averages_data | Averages which will be later stored in a `.txt` file.
+| averages_data | Averages which will be later stored in `tidy_data.txt` file.
 
 
 ###### History
